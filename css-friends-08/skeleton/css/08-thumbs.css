@@ -1,0 +1,12 @@
+/* PHASE 8: Thumbs */
+.profile-online-friends {
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.thumb {
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+}
